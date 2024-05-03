@@ -12,7 +12,7 @@ namespace ARMs
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main() // selammmmmm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
